@@ -1,14 +1,17 @@
 <template>
   <LineChart />
+  <HelloWorld />
 </template>
 
 <script>
 import LineChart from './components/LineChart'
+import HelloWorld from './components/HelloWorld'
 
 export default {
   name: 'App',
   components: {
-    LineChart
+    LineChart,
+    HelloWorld
   }
 }
 </script>
