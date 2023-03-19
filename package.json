@@ -1,15 +1,18 @@
 {
-  "name": "proeject1",
+  "name": "project1",
   "version": "0.1.0",
   "private": true,
+  "homepage": "report-chart-vuejs",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "chartjs": "^0.3.24",
     "core-js": "^3.8.3",
-    "vue": "^3.2.13"
+    "vue": "^3.2.13",
+    "vue-chartjs": "^5.2.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.16",
