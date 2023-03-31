@@ -1,4 +1,12 @@
-# project1
+# Transparency Report using VueJS
+
+### Steps to run the app,
+
+If the screen is not loading in your browser, please follow the below steps:
+
+1. visit https://cors-anywhere.herokuapp.com/corsdemo
+2. Click on the button "Request temporary access to demo server"
+3. Reload https://j0sal.github.io/report-chart-vuejs/
 
 ## Output
 
